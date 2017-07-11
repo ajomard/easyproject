@@ -1,0 +1,2 @@
+# easyproject
+Simple Java project
